@@ -1,4 +1,4 @@
-# 🌍 Exploratory Data Analysis — World Development Indicators
+# 🌍 Exploratory Data Analysis - World Development Indicators
 
 An Exploratory Data Analysis (EDA) project analyzing key global development indicators across 8 countries from 2000 to 2022, using the World Bank's World Development Indicators (WDI) dataset.
 
@@ -50,7 +50,6 @@ This project investigates how countries differ across major socioeconomic and he
 | File | Description |
 |------|-------------|
 | `EDA_World_Development_Indicators.ipynb` | Main Jupyter notebook with full analysis |
-| `Presentation.pptx` | Project presentation slides |
 
 > **Note:** The dataset (`WDICSV.csv`, ~198MB) is not included in this repo due to GitHub's file size limits.
 > You can download it from the [World Bank Open Data portal](https://databank.worldbank.org/source/world-development-indicators).
