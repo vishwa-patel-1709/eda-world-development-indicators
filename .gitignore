@@ -1,0 +1,16 @@
+# Dataset (too large for GitHub - 198MB)
+*.csv
+*.xlsx
+*.xls
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS junk files
+__MACOSX/
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
