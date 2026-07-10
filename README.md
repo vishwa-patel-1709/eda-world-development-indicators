@@ -61,5 +61,4 @@ This project investigates how countries differ across major socioeconomic and he
 4. Update the CSV file path in Cell 1 to match your Drive location
 5. Run all cells
 
-## 📚 Course
-Exploratory Data Analysis — Master's in Data Science, Montclair State University
+
